@@ -13,7 +13,7 @@ name                     : &name "Sowjanya Kallepalli"
 description              : &description "Computer Science Graduate Student at California State University, East Bay | Ex-Accenture"
 url                      : https://sowjkallepalli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sowjkallepalli/lsowjkallepalli.github.io"
+repository               : "sowjkallepalli/sowjkallepalli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
